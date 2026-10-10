@@ -1,0 +1,6 @@
+{
+  "name": "SMART BILLING PRO",
+  "description": "Professional POS and billing management system for retail, grocery, restaurants, and small businesses with GST support, inventory, and khata ledger.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
